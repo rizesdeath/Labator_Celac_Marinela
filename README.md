@@ -1,5 +1,7 @@
 # Laborator_Celac_Marinela
 Lucrare de laborator la tema: Lucrul cu GitHub. Crearea de depozite (repositorii), încărcarea de fișiere, linkuri către prototipuri Figma și colaborarea.
+## Instructiuni de utilizare
+Dati clic pe Linc ce va duce in aplicatia Figma unde putetii schimba sau vizualiza lucrarile
 ## Stuiu individual Prototipul Aplicatiei
 # Scopul: Studiu Individual
 # Poza Autor Celac Marinela Prico Maxim
