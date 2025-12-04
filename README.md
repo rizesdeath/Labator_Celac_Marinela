@@ -1,4 +1,4 @@
-# Labator_Celac_Marinela
+# Laborator_Celac_Marinela
 Lucrare de laborator la tema: Lucrul cu GitHub. Crearea de depozite (repositorii), încărcarea de fișiere, linkuri către prototipuri Figma și colaborarea.
 ##Stuiu individual Prrototipul Aplicatiei
 1)https://www.figma.com/design/nC56n5znSmQPqaeojxAIWb/Retete-Culinare?node-id=83-2&t=PXtBdve0KbBK5bj1-1
